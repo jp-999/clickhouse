@@ -1,0 +1,11 @@
+customer_name,email,phone,signup_date,loyalty_level,region,customer_id
+John Smith,john.smith@example.com,555-123-4567,2022-05-15,Gold,East,1
+Jane Doe,jane.doe@example.com,555-234-5678,2022-06-20,Silver,West,2
+Robert Johnson,robert.j@example.com,555-345-6789,2022-07-10,Bronze,North,3
+Lisa Brown,lisa.brown@example.com,555-456-7890,2022-08-05,Silver,South,4
+Michael Wilson,mike.w@example.com,555-567-8901,2022-09-12,Bronze,East,5
+Emma Garcia,emma.g@example.com,555-678-9012,2022-10-18,Gold,West,6
+William Martinez,will.m@example.com,555-789-0123,2022-11-24,Silver,North,7
+Olivia Anderson,olivia.a@example.com,555-890-1234,2022-12-01,Bronze,South,8
+James Thomas,james.t@example.com,555-901-2345,2023-01-07,Silver,East,9
+Sophia Jackson,sophia.j@example.com,555-012-3456,2023-01-15,Gold,West,10
